@@ -4,7 +4,7 @@ Sou formada em **Gestão Pública**, pós-graduada em **Inteligência Estratégi
 
 Minha trajetória sempre uniu atendimento ao público e dados, em sistemas e planilhas, em escritórios e como assistente administrativa. Na área de TI, construí **5 anos de experiência em suporte técnico**.
 
-Depois, migrei para dados e governança de dados, atuando na coordenação de dados de um ministério, onde validei **14 bases** e reduzi em **40% as inconsistências**.
+Depois, migrei para dados e governança de dados, atuando na coordenação de dados do um ministério, onde validei **14 bases** e reduzi em **40% as inconsistências**.
 
 Busco uma oportunidade em **análise e governança de dados**, trabalhando com **Power BI, SQL, Python e Databricks**.
 
