@@ -1,5 +1,3 @@
-## 🚀 Projeto em destaque
-
 ### 🗺️ [Farmaviva: Databricks + Power BI com mapa 3D](https://github.com/lua008Ferreira/farmaviva-databricks-powerbi)
 Projeto de ponta a ponta com dados fictícios de uma rede de 48 farmácias: arquitetura medalhão no Databricks (bronze, prata e ouro) com quarentena de qualidade, modelo estrela e DAX no Power BI, mapa 3D do Brasil com Azure Maps, painel 3D e LGPD desde o desenho.
 
@@ -25,6 +23,6 @@ Projeto de ponta a ponta com dados fictícios de uma rede de 48 farmácias: arqu
 - 🔐 **Governança e Qualidade de Dados:** regras de qualidade, quarentena de registros inválidos e LGPD.
 
 
-## 📫 Contato
+## **Autoria:** Luana Ferreira de Sousa · [LinkedIn](https://www.linkedin.com/in/luaferreira-desousa/)
 
-- LinkedIn: [linkedin.com/in/luaferreira-desousa](https://www.linkedin.com/in/luaferreira-desousa/)
+
