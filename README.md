@@ -2,8 +2,8 @@
 
 💻 Profissional de dados, analytics e visualização de informações.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lua008Ferreira&show_icons=true&theme=radical&hide_border=true)](https://github.com/lua008Ferreira)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lua008Ferreira&layout=compact&theme=radical&hide_border=true)](https://github.com/lua008Ferreira)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lua008Ferreira&show_icons=true&theme=dracula&hide_border=true)](https://github.com/lua008Ferreira)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lua008Ferreira&layout=compact&theme=dracula&hide_border=true)](https://github.com/lua008Ferreira)
 
 ---
 
