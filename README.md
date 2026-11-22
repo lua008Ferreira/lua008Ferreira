@@ -2,6 +2,8 @@
   <img src="banner.svg" alt="Luana Ferreira de Sousa, análise e governança de dados" width="100%">
 </p>
 
+## Olá, eu sou a Luana 🌙
+
 Sou formada em **Gestão Pública**, pós-graduada em **Inteligência Estratégica** e em **Perícia Forense**, e cursando minha segunda graduação, tecnólogo em **Ciência de Dados**, na Universidade Gran.
 
 Minha trajetória sempre uniu atendimento ao público e dados, em sistemas e planilhas, em escritórios e como assistente administrativa. Na área de TI, desenvolvi **5 anos de experiência em suporte técnico**.
@@ -13,6 +15,7 @@ Busco uma oportunidade em **análise e governança de dados**, trabalhando com P
 📍 Brasília, DF  
 💼 Aberta a oportunidades, projetos e colaborações em dados, analytics e governança.
 
+---
 
 ## 🚀 Projetos em destaque
 
@@ -33,3 +36,7 @@ Busco uma oportunidade em **análise e governança de dados**, trabalhando com P
 ![Azure](https://img.shields.io/badge/Azure-04100C?style=for-the-badge&logo=microsoftazure&logoColor=2CF2A4)
 ![Power BI](https://img.shields.io/badge/Power_BI-04100C?style=for-the-badge&logo=powerbi&logoColor=D8B25A)
 ![Git](https://img.shields.io/badge/Git-04100C?style=for-the-badge&logo=git&logoColor=2CF2A4)
+
+
+
+
