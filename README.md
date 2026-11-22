@@ -2,8 +2,6 @@
   <img src="banner.svg" alt="Luana Ferreira de Sousa, análise e governança de dados" width="100%">
 </p>
 
-## Olá, eu sou a Luana 🌙
-
 Sou formada em **Gestão Pública**, pós-graduada em **Inteligência Estratégica** e em **Perícia Forense**, e cursando minha segunda graduação, tecnólogo em **Ciência de Dados**, na Universidade Gran.
 
 Minha trajetória sempre uniu atendimento ao público e dados, em sistemas e planilhas, em escritórios e como assistente administrativa. Na área de TI, desenvolvi **5 anos de experiência em suporte técnico**.
