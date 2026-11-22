@@ -1,3 +1,12 @@
+# 👋 Olá, eu sou Luana Ferreira de Sousa!
+
+💻 Profissional de dados, analytics e visualização de informações.
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lua008Ferreira&show_icons=true&theme=radical&hide_border=true)](https://github.com/lua008Ferreira)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lua008Ferreira&layout=compact&theme=radical&hide_border=true)](https://github.com/lua008Ferreira)
+
+---
+
 ### 🗺️ [Farmaviva: Databricks + Power BI com mapa 3D](https://github.com/lua008Ferreira/farmaviva-databricks-powerbi)
 Projeto de ponta a ponta com dados fictícios de uma rede de 48 farmácias: arquitetura medalhão no Databricks (bronze, prata e ouro) com quarentena de qualidade, modelo estrela e DAX no Power BI, mapa 3D do Brasil com Azure Maps, painel 3D e LGPD desde o desenho.
 
