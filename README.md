@@ -13,10 +13,6 @@ Busco uma oportunidade em **análise e governança de dados**, trabalhando com P
 📍 Brasília, DF  
 💼 Aberta a oportunidades, projetos e colaborações em dados, analytics e governança.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-04100C?style=for-the-badge&logo=linkedin&logoColor=2CF2A4)](https://www.linkedin.com/in/luaferreira-desousa/)
-[![GitHub](https://img.shields.io/badge/GitHub-lua008Ferreira-04100C?style=for-the-badge&logo=github&logoColor=D8B25A)](https://github.com/lua008Ferreira)
-
----
 
 ## 🚀 Projetos em destaque
 
