@@ -7,6 +7,14 @@
 
 ---
 
+## 🤝 Aberta a colaboração
+
+Estou aberta a colaborar em projetos de dados, documentação técnica e iniciativas de análise de dados em português. Tenho interesse especial em Python, Power BI, SQL, dados abertos e tecnologias relacionadas à governança e proteção de dados.
+
+Sugestões, ideias e contribuições são bem-vindas.
+
+---
+
 ### 🗺️ [Farmaviva: Databricks + Power BI com mapa 3D](https://github.com/lua008Ferreira/farmaviva-databricks-powerbi)
 Projeto de ponta a ponta com dados fictícios de uma rede de 48 farmácias: arquitetura medalhão no Databricks (bronze, prata e ouro) com quarentena de qualidade, modelo estrela e DAX no Power BI, mapa 3D do Brasil com Azure Maps, painel 3D e LGPD desde o desenho.
 
@@ -38,5 +46,3 @@ Construí o Farmaviva para mostrar, de ponta a ponta, como um dado bruto vira in
 Visual 3D giratório: Favela dos Dados.
 
 ## **Autoria:** Luana Ferreira de Sousa · [LinkedIn](https://www.linkedin.com/in/luaferreira-desousa/)
-
-
