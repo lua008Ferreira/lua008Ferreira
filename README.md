@@ -1,8 +1,12 @@
-# Olá, eu sou Luana Ferreira de Sousa 👋
+# Olá, eu sou a Luana 🌙
 
-## Analista de Dados | BI | Governança e Privacidade
+Sou formada em **Gestão Pública**, pós-graduada em **Inteligência Estratégica** e em **Perícia Forense**, e curso minha segunda graduação, tecnólogo em **Ciência de Dados**, na Universidade Gran.
 
-Transformo dados em análises claras, visualizações úteis e decisões melhores. Meu trabalho combina **Power BI, SQL, Python, Databricks e governança de dados**, com atenção à qualidade, documentação e aos princípios da **LGPD**.
+Minha trajetória sempre uniu atendimento ao público e dados, em sistemas e planilhas, em escritórios e como assistente administrativa. Na área de TI, construí **5 anos de experiência em suporte técnico**.
+
+Depois, migrei para dados e governança de dados, atuando na coordenação de dados de um ministério, onde validei **14 bases** e reduzi em **40% as inconsistências**.
+
+Busco uma oportunidade em **análise e governança de dados**, trabalhando com **Power BI, SQL, Python e Databricks**.
 
 📍 Brasília, DF  
 💼 Aberta a oportunidades, projetos e colaborações em dados, analytics e governança.
