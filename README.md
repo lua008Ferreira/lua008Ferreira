@@ -12,14 +12,21 @@ Projeto de ponta a ponta com dados fictícios de uma rede de 48 farmácias: arqu
 ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-## 📌 Áreas de Atuação e Interesse
 
-- 📊 **Análise de Dados:** tratamento, exploração de dados e criação de visualizações estratégicas.
-- ⚙️ **Engenharia de Dados:** construção de pipelines, ETL e processamento em nuvem (Azure e Databricks).
-- 💡 **Inteligência Estratégica:** aplicação de dados no apoio à tomada de decisão e ao planejamento de negócios.
-- 🔐 **Governança e Qualidade de Dados:** regras de qualidade, quarentena de registros inválidos e LGPD.
+## 🎯 Por que este projeto?
 
+Construí o Farmaviva para mostrar, de ponta a ponta, como um dado bruto vira informação confiável para decisão: da ingestão ao painel, com qualidade e governança no desenho. Os dados são **fictícios** e foram tratados como os de uma rede real de farmácias.
+
+## 🔎 O que o projeto entrega
+
+- **Arquitetura medalhão no Databricks:** camadas bronze, prata e ouro, com quarentena para registros inválidos (6.024 dos 289.786 registros de venda).
+- **Modelo estrela** e medidas em **DAX** no Power BI.
+- **Mapa 3D do Brasil** com Azure Maps, em que cada coluna é uma loja.
+- **LGPD desde o desenho:** acesso restrito às camadas brutas e painel sem o nome do cliente.
+
+## 🙏 Créditos
+
+Visual 3D giratório: Favela dos Dados.
 
 ## **Autoria:** Luana Ferreira de Sousa · [LinkedIn](https://www.linkedin.com/in/luaferreira-desousa/)
 
