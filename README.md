@@ -10,11 +10,9 @@ Projeto de ponta a ponta com dados fictícios de uma rede de 48 farmácias: arqu
 ![Databricks](https://img.shields.io/badge/DATABRICKS-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/LOOKER%20STUDIO-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 ## 📌 Áreas de Atuação e Interesse
 
 - 📊 **Análise de Dados:** tratamento, exploração de dados e criação de visualizações estratégicas.
