@@ -15,7 +15,16 @@ Busco uma oportunidade em **análise e governança de dados**, trabalhando com P
 📍 Brasília, DF  
 💼 Aberta a oportunidades, projetos e colaborações em dados, analytics e governança.
 
----
+-----
+
+## 🎓 Certificações
+
+- **Oracle** Cloud Infrastructure AI Foundations Associate (válida até 2028)
+- **Microsoft** Azure Fundamentals (AZ-900)
+- **EXIN** ITIL Foundation, Information Security (ISO/IEC 27001) e Green IT Citizen
+- **SCRUMstudy** Scrum Fundamentals
+
+➡️ [Ver todas as certificações](https://github.com/lua008Ferreira/certificacoes)-
 
 ## 🚀 Projetos em destaque
 
